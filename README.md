@@ -1,0 +1,2 @@
+# unitygitattributes
+Unity用のgitattributes設定
